@@ -41,7 +41,7 @@ The dashboard helps identify patterns related to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
 
